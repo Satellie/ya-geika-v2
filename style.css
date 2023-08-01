@@ -1,0 +1,9 @@
+body {
+    background-color: aqua;
+}
+div {
+    margin: 5px;
+    padding: 5px;
+    border: 3px;
+    border-color: brown;
+}
